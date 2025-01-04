@@ -1,4 +1,4 @@
-import Services from "../Services/Services"
+import Services from "./Components/Services/Services"
 import Hero from "./Components/Hero/Hero"
 
 

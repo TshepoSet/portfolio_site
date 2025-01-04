@@ -1,11 +1,14 @@
+import React from 'react';
+import './Sercives.scss';
 
-
-export const Services = () => {
+const Services: React.FC = () => {
     return (
         <div>
-            <section>
-                <h1>Services</h1>
+            <section className='py-10'>
+                <h1 className='flex justify-center heading__color'>Services</h1>
             </section>
         </div>
     )
 }
+
+export default Services
