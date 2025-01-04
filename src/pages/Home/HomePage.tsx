@@ -1,9 +1,11 @@
+import Hero from "../../components/Hero/Hero"
 
 
 function HomePage() {
     return (
         <div>
-            <h1>HomePage</h1>
+            <Hero />
+            {/* <Banner /> */}
         </div>
     )
 }
