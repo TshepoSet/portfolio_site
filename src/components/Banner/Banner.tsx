@@ -38,32 +38,4 @@ const Banner: React.FC = () => {
     );
 };
 
-// const Banner: React.FC = () => {
-//     return (
-//         <div className="logos">
-//             <div className="logos-slide">
-//                 <img src="src/assets/img/3m.svg" />
-//                 <img src="src/assets/img/barstool-store.svg" />
-//                 <img src="src/assets/img/budweiser.svg" />
-//                 <img src="src/assets/img/buzzfeed.svg" />
-//                 <img src="src/assets/img/forbes.svg" />
-//                 <img src="src/assets/img/macys.svg" />
-//                 <img src="src/assets/img/menshealth.svg" />
-//                 <img src="src/assets/img/mrbeast.svg" />
-//             </div>
-
-//             <div className="logos-slide">
-//                 <img src="src/assets/img/3m.svg" />
-//                 <img src="src/assets/img/barstool-store.svg" />
-//                 <img src="src/assets/img/budweiser.svg" />
-//                 <img src="src/assets/img/buzzfeed.svg" />
-//                 <img src="src/assets/img/forbes.svg" />
-//                 <img src="src/assets/img/macys.svg" />
-//                 <img src="src/assets/img/menshealth.svg" />
-//                 <img src="src/assets/img/mrbeast.svg" />
-//             </div>
-//         </div>
-//     )
-// };
-
 export default Banner;

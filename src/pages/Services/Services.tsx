@@ -1,7 +1,10 @@
 function Services() {
     return (
-        <div>
-            <h1>Services</h1>
+        <div >
+            <section className="py-10">
+                <h1 className="flex justify-center">Services</h1>
+
+            </section>
         </div>
     );
 }

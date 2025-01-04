@@ -1,4 +1,4 @@
-import Banner from "../Banner/Banner"
+import Banner from "../../../../components/Banner/Banner"
 
 
 function Hero() {
@@ -16,7 +16,7 @@ function Hero() {
                         <button>Get in touch</button>
                     </div>
                     <div className='flex-1 hidden md:block '>
-                        <img src="src\assets\img\rb_3863.png" className="max-w-none w-[700px] h-auto" />
+                        <img src="src\assets\img\rb_3863.png" className="max-w-none w-[750px] h-auto" />
                     </div>
                 </div>
                 <Banner />
